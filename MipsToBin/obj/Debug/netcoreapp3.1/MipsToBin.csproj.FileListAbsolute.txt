@@ -1,0 +1,13 @@
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.exe
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.deps.json
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.runtimeconfig.json
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.runtimeconfig.dev.json
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.dll
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\bin\Debug\netcoreapp3.1\MipsToBin.pdb
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.csprojAssemblyReference.cache
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.AssemblyInfoInputs.cache
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.AssemblyInfo.cs
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.csproj.CoreCompileInputs.cache
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.dll
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.pdb
+C:\Users\jnhol\source\repos\MipsToBin\MipsToBin\obj\Debug\netcoreapp3.1\MipsToBin.genruntimeconfig.cache

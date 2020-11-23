@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MipsToBin", "MipsToBin\MipsToBin.csproj", "{7145B0AC-AA2D-4762-B22F-65E628DC8AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7145B0AC-AA2D-4762-B22F-65E628DC8AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7145B0AC-AA2D-4762-B22F-65E628DC8AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7145B0AC-AA2D-4762-B22F-65E628DC8AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7145B0AC-AA2D-4762-B22F-65E628DC8AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20372509-778A-4C35-BF55-F013BB20D351}
+	EndGlobalSection
+EndGlobal
